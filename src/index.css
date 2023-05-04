@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,body {
+  background: radial-gradient(circle, rgba(238,174,203,0.7596288515406162) 0%, rgba(183,148,233,1) 100%);
+  font-size: 1.1rem;
+  font-family: "Quicksand", sans-serif;
+  height: 100%;
+}
+
